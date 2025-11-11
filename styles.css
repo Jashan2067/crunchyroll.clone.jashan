@@ -164,7 +164,7 @@ nav {
 .hero {
     text-align: center;
     padding: 40px 20px;
-    background-image:url("bg-1.jpeg");
+    background-image:url("bg.png");
     background-size: cover;
     background-image: linear-gradient(bottom, black, transparent);
     background-size: contain;
